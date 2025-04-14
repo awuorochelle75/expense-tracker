@@ -73,6 +73,7 @@ function ExpenseForm({ onAddExpense }){
               onChange={handleChange}
               className="w-full border border-gray-300 p-3 rounded-lg"
               required
+              min="0"
             />
     
             <input
