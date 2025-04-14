@@ -1,12 +1,70 @@
-# React + Vite
+# Expense Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Rochelle Awuor** - *Week 1 React Code Challenge*  
 
-Currently, two official plugins are available:
+## **Description**  
+ This is a responsive application built with **React**,**Vite**, and **Tailwind CSS**.This application allows users to add,view and search their expenses.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## **SCREENSHOTS** 
+![alt text](image.png) 
+  
 
-## Expanding the ESLint configuration
+## **SetUp Instructions**  
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### **Requirements**  
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+- [JSON Server](https://www.npmjs.com/package/json-server)  
+- Text editor (e.g., Visual Studio Code)  
+- [Web Browser](https://www.google.com/chrome/)  
+
+### **Getting the Files**  
+1. **Clone the repository**  
+   ```sh
+   git clone https://github.com/awuorochelle75/wk3-js-codechallenge.git
+
+2. **Navigate to the project folder**
+    ```sh
+    cd wk3-js-codechallenge
+
+3.  **Install dependencies**
+    ```sh
+    npm install
+
+4. **Start the JSON server**
+    ```sh
+    json-server --watch db.json
+
+5. Open **index.html** in your browser
+
+
+## How to run it 
+Open terminal
+Run your json server
+  
+Then,open **index.html** in your browser.
+
+##  Live Link 
+**Access the web  application here**
+    https://wk3-js-codechallenge.vercel.app/
+
+## JSON SERVER (API)
+
+    GET /films - Fetch all movies
+    GET /films/:id - Fetch a single movie  by ID
+    PATCH /films/:id - Update ticket availability after purchase
+
+## Dependecies
+    -Google
+
+
+## Technologies used
+    -HTML
+    -CSS
+    -JavaScript
+    -JSON Server
+
+## Contact Information
+Email: awuorochelle@gmail.com
+
+## License
+MIT License @2025 Rochelle Awuor
