@@ -6,7 +6,9 @@
  This is a responsive application built with **React**,**Vite**, and **Tailwind CSS**.This application allows users to add,view and search their expenses.
 
 ## **SCREENSHOTS** 
-![alt text](image.png) 
+![alt text](/images/image.png) 
+![alt text](/images/expense.png) 
+
   
 
 ## **SetUp Instructions**  
