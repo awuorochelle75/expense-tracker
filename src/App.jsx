@@ -25,8 +25,8 @@ function App(){
   );
   return (
     <div>
-      <h1><b>Expense Tracker</b></h1>
-      <p>Start taking control of your finances and life.Record,categorize and analyze your spending</p>
+      <h1 className="text-4xl"><b>Expense Tracker</b></h1><br></br>
+      <p className="text-xl">Start taking control of your finances and life.Record,categorize and analyze your spending</p>
       
         <ExpenseForm onAddExpense={addExpense}/>
       
