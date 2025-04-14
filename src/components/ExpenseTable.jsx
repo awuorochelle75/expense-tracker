@@ -8,7 +8,7 @@ function ExpenseTable({ expenses }) {
       <table className="min-w-full bg-white shadow-lg rounded-xl">
         <thead className="bg-amber-600 text-white">
           <tr>
-            <th className="text-left py-3 px-4">Name</th>
+            <th className="text-left py-3 px-4">Expense</th>
             <th className="text-left py-3 px-4">Description</th>
             <th className="text-left py-3 px-4">Category</th>
             <th className="text-left py-3 px-4">Amount</th>
