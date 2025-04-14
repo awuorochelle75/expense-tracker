@@ -6,7 +6,7 @@ function ExpenseTable({ expenses }) {
   return (
     <div className="mt-10 ml-10 mr-10 overflow-x-auto">
       <table className="min-w-full bg-white shadow-lg rounded-xl">
-        <thead className="bg-blue-600 text-white">
+        <thead className="bg-amber-600 text-white">
           <tr>
             <th className="text-left py-3 px-4">Name</th>
             <th className="text-left py-3 px-4">Description</th>

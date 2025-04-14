@@ -86,7 +86,7 @@ function ExpenseForm({ onAddExpense }){
     
             <button
               type="submit"
-              className="w-full bg-blue-600 text-white py-3 rounded-lg hover:bg-blue-700 transition duration-300"
+              className="w-full bg-amber-600 text-white py-3 rounded-lg hover:bg-amber-300 transition duration-300"
             >
               Submit
             </button>
