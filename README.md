@@ -40,7 +40,7 @@
 
 ##  Live Link 
 **Access the web  application here**
-    https://wk3-js-codechallenge.vercel.app/
+    https://expense-tracker-olive-theta.vercel.app/
 
 
 ## Contact Information
